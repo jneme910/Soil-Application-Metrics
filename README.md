@@ -1,4 +1,4 @@
-# Explanation of Web Soil Survey Metrics Spreadsheet
+# Explanation of Soil Application Metrics
 
 ## This is a brief overview for Web Soil Survey Metrics. 
 Filter options are as follows:
